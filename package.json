@@ -1,0 +1,23 @@
+{
+  "name": "haxpress",
+  "version": "1.0.0",
+  "description": "Hack Express on ZEIT.CO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnglst/haxpress.git"
+  },
+  "keywords": [],
+  "author": "Koen van Gilst <koen.vangilst@gmail.com> (http://koenvangilst.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vnglst/haxpress/issues"
+  },
+  "homepage": "https://github.com/vnglst/haxpress#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
